@@ -6,6 +6,8 @@ Autonomous Robot for Fire Detection in Traditional Markets
 2. 자율주행
 3. 열감지
 
-## Hardware
+   ! 그림
 
-## Software
+- Hardware
+- Software
+- IDE
