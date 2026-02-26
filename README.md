@@ -27,4 +27,4 @@ Autonomous Robot for Fire Detection in Traditional Markets
 
 
 
-코들 날라갔어요~! 야발
+코드 날라갔어요~! 야발
