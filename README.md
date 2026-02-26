@@ -24,3 +24,7 @@ Autonomous Robot for Fire Detection in Traditional Markets
 - Software : Python, C (qt creator)
 - 환경 : Linux Ubuntu 20.08
 
+
+
+
+코들 날라갔어요~! 야발
